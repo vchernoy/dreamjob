@@ -92,6 +92,10 @@
 * [What are ISOs?](http://startuplawyer.com/employees-consultants/what-are-isos)
 * [Joining an Early Stage Startup? Negotiate Your Equity and Salary with Stock Option Counsel tips](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12)
 
+## Podcasts
+
+* [The Ultimate List Of Developer Podcasts. By John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/?utm_source=drip&utm_medium=email&utm_campaign=ultimate-list-of-developer-podcasts-updated)
+
 ## Misc
 
 * [Slant.co](https://www.slant.co)
