@@ -23,7 +23,7 @@
 
 * [HighScalability](http://Highscalability.com)
   * [HighScalability: Examples](http://highscalability.com/blog/category/example)
-*  [HiredInTech](https://www.hiredintech.com)
+* [HiredInTech](https://www.hiredintech.com)
   * [HiredInTech: System Design](https://www.hiredintech.com/system-design)
 * [CareerCup: System Design Interview Questions](https://www.careercup.com/page?pid=system-design-interview-questions)
 * [InfoQ: CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
