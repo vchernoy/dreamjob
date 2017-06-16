@@ -19,6 +19,7 @@
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [Anthology](https://anthology.co)
 * [SkillGigs](https://www.skillgigs.com/)
+* [Yodas](https://www.yodas.com)
 
 ## Coding
 
