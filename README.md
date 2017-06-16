@@ -68,6 +68,10 @@
 ## Concurrency
 
 * [Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
+* [The "Double-Checked Locking is Broken" Declaration](https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html)
+* [C++ and the Perils of Double-Checked Locking, Scott Meyers & Andrei Alexandrescu](http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf)
+* [select / poll / epoll: practical difference for system architects](http://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects)
+
 
 ## Mock interviews
 
