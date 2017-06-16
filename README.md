@@ -41,14 +41,6 @@
   * [CAP Theorem (Consistency, Availability, Partitioning)](https://en.wikipedia.org/wiki/CAP_theorem)
   * [Shard Database Architecture](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 
-## Stocks
-
-* [Softare Engineering Daily: Equity Compensation with Joshua Levy and Joe Wallin](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin)
-* [The Open Guide to Equity Compensation. By Joshua Levy](https://github.com/jlevy/og-equity-compensation)
-* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
-* [What are ISOs?](http://startuplawyer.com/employees-consultants/what-are-isos)
-* [Joining an Early Stage Startup? Negotiate Your Equity and Salary with Stock Option Counsel tips](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12)
-
 ## Mock interviews
 
 * [Interviewing.io](https://interviewing.io)
@@ -62,6 +54,20 @@
 * [Owler](https://www.owler.com)
 * [StackShare.io](https://stackshare.io)
 * [StackOverflow](https://stackoverflow.com)
+
+## Salary negotiation
+* [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
+  * [Haseeb's Qureshi Blog: Ten Rules for Negotiating a Job Offer](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
+* [Softare Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
+* [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
+
+## Stocks
+
+* [Softare Engineering Daily: Equity Compensation with Joshua Levy and Joe Wallin](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin)
+* [The Open Guide to Equity Compensation. By Joshua Levy](https://github.com/jlevy/og-equity-compensation)
+* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+* [What are ISOs?](http://startuplawyer.com/employees-consultants/what-are-isos)
+* [Joining an Early Stage Startup? Negotiate Your Equity and Salary with Stock Option Counsel tips](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12)
 
 ## Misc
 
