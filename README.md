@@ -1,11 +1,11 @@
 
-## Recruiting Platforms with technical prescreen
+## Recruiting Platforms with Technical Prescreen
 
 * [TripleByte](https://triplebyte.com/iv/PXM6vVS/cp)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
 
-## Staffing platforms and job marketplaces
+## Staffing Platforms and Job Marketplaces
 
 * [Hired.com](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
@@ -25,8 +25,10 @@
   * [CodeFights interview practice](https://codefights.com/interview-practice)
 * [CodeEval](https://www.codeeval.com)
 * [Codility](https://codility.com)
+* [GeeksForGeeks](http://www.geeksforgeeks.org)
 * [CareerCup](https://www.careercup.com)
   * The book: [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care01-20&linkCode=as2&camp=217145&creative098478285050tiveASIN=0984782850), by [Gayle Laakmann McDowell](https://www.quora.com/profile/Gayle-Laakmann-McDowell)
+* [ProjectEuler](https://projecteuler.net)
 
 ## Systems Design
 
@@ -35,37 +37,48 @@
 * [HiredInTech](https://www.hiredintech.com)
   * [HiredInTech: System Design](https://www.hiredintech.com/system-design)
 * [CareerCup: System Design Interview Questions](https://www.careercup.com/page?pid=system-design-interview-questions)
-* [InfoQ: CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
-* [DZone: Better Explaining CAP Theorem](https://dzone.com/articles/better-explaining-cap-theorem)
 * [MassiveTechInterview Blogspot](http://massivetechinterview.blogspot.com)
 * [Quora: How do I prepare to answer design questions in a technical-interview](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
 * [Gainlo Blog: System Design Interview Questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions)
-* Wikipedia
-  * [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
-  * [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
-  * [WAL (Write Ahead Log)](https://en.wikipedia.org/wiki/Write-ahead_logging)
-  * [MVC (Multi Version Control)](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
-  * [ACID (Atomicity, Consistency, Isolation, Durability)](https://en.wikipedia.org/wiki/ACID)
-  * [BASE (Basically Available, Soft state, Eventual consistency)](https://en.wikipedia.org/wiki/Eventual_consistency)
-  * [CAP Theorem (Consistency, Availability, Partitioning)](https://en.wikipedia.org/wiki/CAP_theorem)
-  * [Shard Database Architecture](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+
+## Systems Design Basics on Wikipedia
+
+* [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
+* [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+* [WAL (Write Ahead Log)](https://en.wikipedia.org/wiki/Write-ahead_logging)
+* [MVC (Multi Version Control)](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
+* [ACID (Atomicity, Consistency, Isolation, Durability)](https://en.wikipedia.org/wiki/ACID)
+* [BASE (Basically Available, Soft state, Eventual consistency)](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [CAP Theorem (Consistency, Availability, Partitioning)](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Shard Database Architecture](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+
+## Systems Design Articles
+
+* [InfoQ: CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+* [DZone: Better Explaining CAP Theorem](https://dzone.com/articles/better-explaining-cap-theorem)
+* [Why Uber Engineering Switched from Postgre to MySql](https://eng.uber.com/mysql-migration)
+* [125 open source Big Data architecture papers for data professionals](https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan)
 
 ## Mock interviews
 
 * [Interviewing.io](https://interviewing.io)
-* [Pramp -- Practice Makes Perfect](https://www.pramp.com/invt/b2B16bZbxai69jq55G2o)
+* [Pramp -- PRActice Makes Perfect](https://www.pramp.com/invt/b2B16bZbxai69jq55G2o)
 * [Gainlo.co](http://www.gainlo.co)
 
 ## Companies and Jobs' List
 
-* [Angel.co](https://angel.co)
-* [Paysa](https://www.paysa.com)
-* [Slant.co](https://www.slant.co)
+* [Angel.co: Jobs](https://angel.co/jobs)
+* [Paysa: Jobs](https://www.paysa.com/jobs)
+  * [Paysa: Salaries](https://www.paysa.com/salaries)
 * [Owler](https://www.owler.com)
-* [StackShare.io](https://stackshare.io)
-* [StackOverflow](https://stackoverflow.com)
+* [StackShare.io: Jobs](https://stackshare.io/match)
+* [StackOverflow: Jobs](https://stackoverflow.com/jobs)
+* [Triplebyte: Company List](https://triplebyte.com/ycombinator-startups)
+* [GlassDoor](https://www.glassdoor.com)
+  * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
 
-## Salary negotiation
+## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
   * [Haseeb's Qureshi Blog: Ten Rules for Negotiating a Job Offer](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
 * [Softare Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
@@ -73,7 +86,7 @@
 
 ## Stocks
 
-* [Softare Engineering Daily: Equity Compensation with Joshua Levy and Joe Wallin](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin)
+* [Software Engineering Daily: Equity Compensation with Joshua Levy and Joe Wallin](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin)
 * [The Open Guide to Equity Compensation. By Joshua Levy](https://github.com/jlevy/og-equity-compensation)
 * [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 * [What are ISOs?](http://startuplawyer.com/employees-consultants/what-are-isos)
@@ -81,5 +94,5 @@
 
 ## Misc
 
+* [Slant.co](https://www.slant.co)
 * [HirePool.io](https://hirepool.io)
-* [Why Uber Engineering Switched from Postgre to MySql](https://eng.uber.com/mysql-migration)
