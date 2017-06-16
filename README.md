@@ -92,6 +92,7 @@
 * [GlassDoor](https://www.glassdoor.com)
   * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [YC-Companies](https://www.ycombinator.com/companies)
+* [The 2017 Wealthfront Career-Launching Companies List](https://blog.wealthfront.com/2017-career-launching-companies-list)
 
 ## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
