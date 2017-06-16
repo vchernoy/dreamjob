@@ -4,11 +4,13 @@
 * [TripleByte](https://triplebyte.com/iv/PXM6vVS/cp)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
+* [AList.co](https://alist.co/candidates)
 
 ## Staffing Platforms and Job Marketplaces
 
 * [Hired.com](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
+* [WhiteTruffle](https://whitetruffle.com/r/cdb6)
 * [Underdog.io](https://underdog.io)
 * [Woo.io](https://woo.io)
 * [SwitchApp](http://www.switchapp.com)
