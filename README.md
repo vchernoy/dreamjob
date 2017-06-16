@@ -1,3 +1,4 @@
+# Hacking Software Engineering Interviews
 
 ## Recruiting Platforms with Technical Prescreen
 
@@ -63,6 +64,10 @@
 * [Why Uber Engineering Switched from Postgre to MySql](https://eng.uber.com/mysql-migration)
 * [125 open source Big Data architecture papers for data professionals](https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan)
 
+## Concurrency
+
+* [Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
+
 ## Mock interviews
 
 * [Interviewing](https://interviewing.io)
@@ -71,6 +76,7 @@
 
 ## Companies and Jobs' List
 
+* [BreakoutList](https://breakoutlist.com)
 * [Angel: Jobs](https://angel.co/jobs)
 * [Paysa: Jobs](https://www.paysa.com/jobs)
   * [Paysa: Salaries](https://www.paysa.com/salaries)
@@ -103,3 +109,6 @@
 
 * [Slant](https://www.slant.co)
 * [HirePool](https://hirepool.io)
+* [TechCrunch](http://techcrunch.com)
+* [WealthFront](https://www.wealthfront.com)
+
