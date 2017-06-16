@@ -116,4 +116,4 @@
 * [HirePool](https://hirepool.io)
 * [TechCrunch](http://techcrunch.com)
 * [WealthFront](https://www.wealthfront.com)
-
+* [Breakout Career Notes](https://breakoutcareers.com)
