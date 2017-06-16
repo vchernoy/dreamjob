@@ -4,18 +4,19 @@
 * [TripleByte](https://triplebyte.com/iv/PXM6vVS/cp)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
-* [AList.co](https://alist.co/candidates)
+* [Angel: Direct](https://angel.co/direct)
 
 ## Staffing Platforms and Job Marketplaces
 
-* [Hired.com](https://hired.com/x/2qwFxX)
+* [Hired](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
+* [AList](https://alist.co/candidates)
 * [WhiteTruffle](https://whitetruffle.com/r/cdb6)
-* [Underdog.io](https://underdog.io)
-* [Woo.io](https://woo.io)
+* [Underdog](https://underdog.io)
+* [Woo](https://woo.io)
 * [SwitchApp](http://www.switchapp.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
-* [Anthology.co](https://anthology.co)
+* [Anthology](https://anthology.co)
 * [SkillGigs](https://www.skillgigs.com/)
 
 ## Coding
@@ -64,17 +65,17 @@
 
 ## Mock interviews
 
-* [Interviewing.io](https://interviewing.io)
+* [Interviewing](https://interviewing.io)
 * [Pramp -- PRActice Makes Perfect](https://www.pramp.com/invt/b2B16bZbxai69jq55G2o)
-* [Gainlo.co](http://www.gainlo.co)
+* [Gainlo](http://www.gainlo.co)
 
 ## Companies and Jobs' List
 
-* [Angel.co: Jobs](https://angel.co/jobs)
+* [Angel: Jobs](https://angel.co/jobs)
 * [Paysa: Jobs](https://www.paysa.com/jobs)
   * [Paysa: Salaries](https://www.paysa.com/salaries)
 * [Owler](https://www.owler.com)
-* [StackShare.io: Jobs](https://stackshare.io/match)
+* [StackShare: Jobs](https://stackshare.io/match)
 * [StackOverflow: Jobs](https://stackoverflow.com/jobs)
 * [Triplebyte: Company List](https://triplebyte.com/ycombinator-startups)
 * [GlassDoor](https://www.glassdoor.com)
@@ -100,5 +101,5 @@
 
 ## Misc
 
-* [Slant.co](https://www.slant.co)
-* [HirePool.io](https://hirepool.io)
+* [Slant](https://www.slant.co)
+* [HirePool](https://hirepool.io)
