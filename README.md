@@ -91,6 +91,7 @@
 * [Triplebyte: Company List](https://triplebyte.com/ycombinator-startups)
 * [GlassDoor](https://www.glassdoor.com)
   * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
+* [YC-Companies](https://www.ycombinator.com/companies)
 
 ## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
