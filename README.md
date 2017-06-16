@@ -1,11 +1,20 @@
 
-## Recruiting Platforms
+## Recruiting Platforms with technical prescreen
 
 * [TripleByte](https://triplebyte.com/iv/PXM6vVS/cp)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
+* [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
+
+## Staffing platforms and job marketplaces
+
 * [Hired.com](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
-* [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
+* [Underdog.io](https://underdog.io)
+* [Woo.io](https://woo.io)
+* [SwitchApp](http://www.switchapp.com)
+* [ZipRecruiter](https://www.ziprecruiter.com)
+* [Anthology.co](https://anthology.co)
+* [SkillGigs](https://www.skillgigs.com/)
 
 ## Coding
 
