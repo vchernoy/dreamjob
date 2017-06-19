@@ -35,6 +35,7 @@
   * The book: [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care01-20&linkCode=as2&camp=217145&creative098478285050tiveASIN=0984782850), by [Gayle Laakmann McDowell](https://www.quora.com/profile/Gayle-Laakmann-McDowell)
 * [ProjectEuler](https://projecteuler.net)
 * [Educative: Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Systems Design
 
@@ -47,6 +48,7 @@
 * [Quora: How do I prepare to answer design questions in a technical-interview](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
 * [Gainlo Blog: System Design Interview Questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions)
 * [Educative: Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Systems Design Basics on Wikipedia
 
