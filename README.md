@@ -75,12 +75,12 @@
 * [C++ and the Perils of Double-Checked Locking, Scott Meyers & Andrei Alexandrescu](http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf)
 * [select / poll / epoll: practical difference for system architects](http://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects)
 
-
 ## Mock interviews
 
 * [Interviewing](https://interviewing.io)
 * [Pramp -- PRActice Makes Perfect](https://www.pramp.com/invt/b2B16bZbxai69jq55G2o)
 * [Gainlo](http://www.gainlo.co)
+* [Interview Kickstart](http://interviewkickstart.com)
 
 ## Companies and Jobs' List
 
