@@ -2,7 +2,7 @@
 
 ## Recruiting Platforms with Technical Prescreen
 
-* [TripleByte](https://triplebyte.com/iv/PXM6vVS/cp)
+* [TripleByte](https://triplebyte.com/iv/PXM6vVS/me)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
 * [Angel: Direct](https://angel.co/direct)
@@ -20,6 +20,7 @@
 * [Anthology](https://anthology.co)
 * [SkillGigs](https://www.skillgigs.com/)
 * [Yodas](https://www.yodas.com)
+* [Vettery](https://www.vettery.com)
 
 ## Coding
 
