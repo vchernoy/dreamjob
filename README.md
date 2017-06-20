@@ -125,3 +125,4 @@
 * [WealthFront](https://www.wealthfront.com)
 * [Breakout Career Notes](https://breakoutcareers.com)
 * [Anonymized Engineering Compensation](https://docs.google.com/spreadsheets/d/1JR4KrVH1dygniLiLFAMTvdSp5gGLVKKkOxBYiPQagvE/edit#gid=0)
+* [Anonymous Work Talk](https://us.teamblind.com)
