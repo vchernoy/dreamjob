@@ -25,7 +25,7 @@
 ## Coding
 
 * [LeetCode](https://leetcode.com)
-* [HackerRank](https://www.hackerrank.com)
+* [HackerRank: Practice](https://www.hackerrank.com/dashboard)
 * [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
   * [CodeFights Companes' Bots](https://codefights.com/company-bots)
   * [CodeFights interview practice](https://codefights.com/interview-practice)
@@ -34,9 +34,16 @@
 * [GeeksForGeeks](http://www.geeksforgeeks.org)
 * [CareerCup](https://www.careercup.com)
   * The book: [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care01-20&linkCode=as2&camp=217145&creative098478285050tiveASIN=0984782850), by [Gayle Laakmann McDowell](https://www.quora.com/profile/Gayle-Laakmann-McDowell)
-* [ProjectEuler](https://projecteuler.net)
 * [Educative: Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+# Competitive programming
+
+* [Topcoder](https://www.topcoder.com)
+* [Codechef](https://www.codechef.com)
+* [Codeforces](http://codeforces.com) -- http only!
+* [HackerRank: Contests](https://www.hackerrank.com/contests)
+* [ProjectEuler](https://projecteuler.net)
 
 ## Systems Design
 
@@ -101,9 +108,9 @@
 ## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
   * [Haseeb's Qureshi Blog: Ten Rules for Negotiating a Job Offer](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
-* [Softare Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
+* [Software Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
 * [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
-* [How not to bomb your offer negotiation](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
+* [How not to bomb your offer negotiation, by Haseeb Qureshi](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
 
 ## Stocks
 
