@@ -37,11 +37,11 @@
 * [Educative: Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-# Competitive programming
+## Competitive programming
 
 * [Topcoder](https://www.topcoder.com)
 * [Codechef](https://www.codechef.com)
-* [Codeforces](http://codeforces.com) -- http only!
+* [Codeforces](http://codeforces.com) -- http only :-(
 * [HackerRank: Contests](https://www.hackerrank.com/contests)
 * [ProjectEuler](https://projecteuler.net)
 
