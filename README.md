@@ -93,6 +93,7 @@
 ## Companies and Jobs' List
 
 * [BreakoutList](https://breakoutlist.com)
+* [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 * [Angel: Jobs](https://angel.co/jobs)
 * [Paysa: Jobs](https://www.paysa.com/jobs)
   * [Paysa: Salaries](https://www.paysa.com/salaries)
@@ -108,6 +109,7 @@
 ## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
   * [Haseeb's Qureshi Blog: Ten Rules for Negotiating a Job Offer](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
+* [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School)](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
 * [Software Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
 * [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
 * [How not to bomb your offer negotiation, by Haseeb Qureshi](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
