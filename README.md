@@ -2,48 +2,55 @@
 
 ## Recruiting Platforms with Technical Prescreen
 
-* [TripleByte](https://triplebyte.com/iv/PXM6vVS/me)
-* [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
-* [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
+* [TripleByte -- Get offers from top tech companies](https://triplebyte.com/iv/PXM6vVS/me)
+* [CodeFights -- Practice Programming!](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [Angel: Direct](https://angel.co/direct)
+* [Refdash -- Find the best job for You](https://refdash.com)
+* [InterviewBit](https://www.interviewbit.com/invite/ghjbib)
+* [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
 
 ## Staffing Platforms and Job Marketplaces
 
-* [Hired](https://hired.com/x/2qwFxX)
+* [Hired -- Find your Opportunity](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
-* [AList](https://alist.co/candidates)
-* [WhiteTruffle](https://whitetruffle.com/r/cdb6)
-* [Underdog](https://underdog.io)
+* [AList -- Get hired by a top startup](https://alist.co/candidates)
+* [WhiteTruffle -- Let your dream job come to you](https://whitetruffle.com/r/cdb6)
+* [Underdog -- Apply to top technology jobs in 60 seconds](https://underdog.io)
 * [Woo](https://woo.io)
 * [SwitchApp](http://www.switchapp.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [Anthology](https://anthology.co)
-* [SkillGigs](https://www.skillgigs.com/)
-* [Yodas](https://www.yodas.com)
-* [Vettery](https://www.vettery.com)
+* [SkillGigs -- You win when your dream job finds you](https://www.skillgigs.com)
+* [Yodas -- Reverse Headhunting](https://www.yodas.com)
+* [Vettery -- Find a job you love](https://www.vettery.com)
 
 ## Coding
 
-* [LeetCode](https://leetcode.com)
+* [LeetCode -- a platform for preparing technical coding interviews](https://leetcode.com)
 * [HackerRank: Practice](https://www.hackerrank.com/dashboard)
-* [CodeFights](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
+* [CodeFights -- Practice Programming!](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
   * [CodeFights Companes' Bots](https://codefights.com/company-bots)
   * [CodeFights interview practice](https://codefights.com/interview-practice)
-* [CodeEval](https://www.codeeval.com)
-* [Codility](https://codility.com)
-* [GeeksForGeeks](http://www.geeksforgeeks.org)
+* [CodeEval -- Find out how you rate against top coders.](https://www.codeeval.com)
+* [Codility -- Refactor Yourself](https://codility.com)
+* [GeeksForGeeks -- A computer science portal for geeks](http://www.geeksforgeeks.org) -- http only :-(
 * [CareerCup](https://www.careercup.com)
   * The book: [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care01-20&linkCode=as2&camp=217145&creative098478285050tiveASIN=0984782850), by [Gayle Laakmann McDowell](https://www.quora.com/profile/Gayle-Laakmann-McDowell)
 * [Educative: Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [GeekyPrep -- Referral Code: QZJFQS](https://www.geekyprep.com)
+* [CodersMaze -- Compile, run, curse... Recompile, rerun, recurse...](http://codersmaze.com) -- http only :-(
 
 ## Competitive programming
 
 * [Topcoder](https://www.topcoder.com)
-* [Codechef](https://www.codechef.com)
+* [CodeChef](https://www.codechef.com)
 * [Codeforces](http://codeforces.com) -- http only :-(
 * [HackerRank: Contests](https://www.hackerrank.com/contests)
 * [ProjectEuler](https://projecteuler.net)
+* [Spoj -- Sphere Online Judge](http://www.spoj.com) -- http only :-(
+* [HackerEarth -- Be a Better Programmer. Practice. Compete. Get Hired.](https://www.hackerearth.com/about/profile/?ref_key=b46a5106e4704565824636b6e1dfe210&source=invite)
+* [UVa -- Online Judge](https://uva.onlinejudge.org)
 
 ## Systems Design
 
@@ -85,10 +92,12 @@
 
 ## Mock interviews
 
-* [Interviewing](https://interviewing.io)
+* [Interviewing -- Practice interviews with engineers from top companies, anonymously](https://interviewing.io)
 * [Pramp -- PRActice Makes Perfect](https://www.pramp.com/invt/b2B16bZbxai69jq55G2o)
-* [Gainlo](http://www.gainlo.co)
-* [Interview Kickstart](http://interviewkickstart.com)
+* [Gainlo -- We provide the same experience as real interviews and you'll get real feedback in the end](http://www.gainlo.co) -- http only :-(
+* [Interview Kickstart -- Nail your next coding interview](http://interviewkickstart.com) -- http only :-(
+* [Mock Interviews](http://mock-interviews.com) -- http only :-(
+* [Zenterview -- Ace your next interview. Land your dream job](https://www.zenterview.com)
 
 ## Companies and Jobs' List
 
