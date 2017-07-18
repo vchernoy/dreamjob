@@ -8,6 +8,7 @@
 * [Refdash -- Find the best job for You](https://refdash.com)
 * [InterviewBit](https://www.interviewbit.com/invite/ghjbib)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
+* [HiDimensional](https://www.hidimensional.com)
 
 ## Staffing Platforms and Job Marketplaces
 
