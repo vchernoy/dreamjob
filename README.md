@@ -117,6 +117,7 @@
   * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [YC-Companies](https://www.ycombinator.com/companies)
 * [The 2017 Wealthfront Career-Launching Companies List](https://blog.wealthfront.com/2017-career-launching-companies-list)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ## Salary Negotiation
 * [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
