@@ -66,7 +66,9 @@
 * [Quora: How do I prepare to answer design questions in a technical-interview](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
 * [Gainlo Blog: System Design Interview Questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions)
 * [Educative: Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
-* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [The System Design Primer, Donne Martin](https://github.com/donnemartin/system-design-primer)
+* [System_Design Preparation, by Shashank Khare](https://github.com/shashank88/system_design)
+* [Fight for 200 commits, by Eric Zhang](https://github.com/FreemanZhang/system-design)
 
 ## Systems Design Basics on Wikipedia
 
@@ -78,6 +80,7 @@
 * [BASE (Basically Available, Soft state, Eventual consistency)](https://en.wikipedia.org/wiki/Eventual_consistency)
 * [CAP Theorem (Consistency, Availability, Partitioning)](https://en.wikipedia.org/wiki/CAP_theorem)
 * [Shard Database Architecture](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+* [How to prepare system design questions for an IT company, by Zach](https://github.com/checkcheckzz/system-design-interview)
 
 ## Systems Design Articles
 
