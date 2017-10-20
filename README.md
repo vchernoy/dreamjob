@@ -34,6 +34,7 @@
 * [CodeFights -- Practice Programming!](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
   * [CodeFights Companes' Bots](https://codefights.com/company-bots)
   * [CodeFights interview practice](https://codefights.com/interview-practice)
+* [Codewars -- Achieve mastery through challenge](https://www.codewars.com)
 * [CodeEval -- Find out how you rate against top coders.](https://www.codeeval.com)
 * [Codility -- Refactor Yourself](https://codility.com)
 * [GeeksForGeeks -- A computer science portal for geeks](http://www.geeksforgeeks.org) -- http only :-(
