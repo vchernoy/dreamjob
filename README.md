@@ -37,7 +37,7 @@
 * [Codewars -- Achieve mastery through challenge](https://www.codewars.com)
 * [CodeEval -- Find out how you rate against top coders.](https://www.codeeval.com)
 * [Codility -- Refactor Yourself](https://codility.com)
-* [GeeksForGeeks -- A computer science portal for geeks](http://www.geeksforgeeks.org) -- http only :-(
+* [GeeksForGeeks -- A computer science portal for geeks](https://www.geeksforgeeks.org)
 * [CareerCup](https://www.careercup.com)
   * The book: [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care01-20&linkCode=as2&camp=217145&creative098478285050tiveASIN=0984782850), by [Gayle Laakmann McDowell](https://www.quora.com/profile/Gayle-Laakmann-McDowell)
 * [Educative: Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656)
