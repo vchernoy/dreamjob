@@ -14,18 +14,18 @@
 
 * [Hired -- Find your Opportunity](https://hired.com/x/2qwFxX)
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
-* [AList -- Get hired by a top startup](https://alist.co/candidates)
+* [Vettery -- Find a job you love](http://fbuy.me/ibG7X)
+* [Gloat (previously Workey) -- Anonymously discover career opportunities, know your worth, and meet amazing companies.](https://www.gloat.com/i/dCfsDn)
 * [WhiteTruffle -- Let your dream job come to you](https://whitetruffle.com/r/cdb6)
-* [Underdog -- Apply to top technology jobs in 60 seconds](https://underdog.io)
-* [100offer](https://100offer.com/invite_talent/itwTivol)
 * [Woo](https://woo.io)
-* [SwitchApp](http://www.switchapp.com)
+* [AList -- Get hired by a top startup](https://alist.co/candidates)
+* [Underdog -- Apply to top technology jobs in 60 seconds](https://underdog.io)
+* [SwitchApp](https://www.switchapp.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [Anthology](https://anthology.co)
 * [SkillGigs -- You win when your dream job finds you](https://www.skillgigs.com)
 * [Yodas -- Reverse Headhunting](https://www.yodas.com)
-* [Vettery -- Find a job you love](https://www.vettery.com)
-* [Workey](https://www.workey.co/i/dCfsDn)
+* [100offer](https://100offer.com/invite_talent/itwTivol)
 
 ## Coding
 
