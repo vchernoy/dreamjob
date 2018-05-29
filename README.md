@@ -139,6 +139,7 @@
 * [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 * [What are ISOs?](http://startuplawyer.com/employees-consultants/what-are-isos)
 * [Joining an Early Stage Startup? Negotiate Your Equity and Salary with Stock Option Counsel tips](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12)
+* [Fuck Your 90 Day Exercise Window, by Zach Holman](https://zachholman.com/posts/fuck-your-90-day-exercise-window)
 
 ## Podcasts
 
