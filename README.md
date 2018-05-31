@@ -131,6 +131,7 @@
 * [Software Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
 * [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
 * [How not to bomb your offer negotiation, by Haseeb Qureshi](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
+* [Anonymous Work Talk](https://us.teamblind.com/invite/X1xSb6jm)
 
 ## Stocks
 
@@ -153,4 +154,3 @@
 * [WealthFront](https://www.wealthfront.com)
 * [Breakout Career Notes](https://breakoutcareers.com)
 * [Anonymized Engineering Compensation](https://docs.google.com/spreadsheets/d/1JR4KrVH1dygniLiLFAMTvdSp5gGLVKKkOxBYiPQagvE/edit#gid=0)
-* [Anonymous Work Talk](https://us.teamblind.com)
