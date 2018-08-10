@@ -31,9 +31,9 @@
 
 * [LeetCode -- a platform for preparing technical coding interviews](https://leetcode.com)
 * [HackerRank: Practice](https://www.hackerrank.com/dashboard)
-* [CodeFights -- Practice Programming!](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
-  * [CodeFights Companes' Bots](https://codefights.com/company-bots)
-  * [CodeFights interview practice](https://codefights.com/interview-practice)
+* [CodeSignal -- Practice Programming!](https://app.codesignal.com/signup/8Jj3t6KyDxLNvFNjK/main)
+  * [CodeSignal Companies' Challenges](https://app.codesignal.com/company-challenges)
+  * [CodeSignal interview practice](https://app.codesignal.com/interview-practice)
 * [Codewars -- Achieve mastery through challenge](https://www.codewars.com)
 * [CodeEval -- Find out how you rate against top coders.](https://www.codeeval.com)
 * [Codility -- Refactor Yourself](https://codility.com)
@@ -51,9 +51,12 @@
 * [CodeChef](https://www.codechef.com)
 * [E-Olymp](https://www.e-olymp.com)
 * [Codeforces](http://codeforces.com) -- http only :-(
+* [AtCoder](https://atcoder.jp)
+* [CS Academy](https://csacademy.com)
 * [HackerRank: Contests](https://www.hackerrank.com/contests)
 * [ProjectEuler](https://projecteuler.net)
 * [Spoj -- Sphere Online Judge](http://www.spoj.com) -- http only :-(
+* [Timus Online Judge](http://acm.timus.ru) -- http only :-(
 * [HackerEarth -- Be a Better Programmer. Practice. Compete. Get Hired.](https://www.hackerearth.com/about/profile/?ref_key=b46a5106e4704565824636b6e1dfe210&source=invite)
 * [UVa -- Online Judge](https://uva.onlinejudge.org)
 
