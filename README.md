@@ -44,6 +44,7 @@
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [GeekyPrep -- Referral Code: QZJFQS](https://www.geekyprep.com)
 * [CodersMaze -- Compile, run, curse... Recompile, rerun, recurse...](http://codersmaze.com) -- http only :-(
+* [PracticeCodingInterview.com -- Live mock coding interviews](http://www.practicecodinginterview.com/) -- Paid practice interviews with engineers at top companies
 
 ## Competitive programming
 
