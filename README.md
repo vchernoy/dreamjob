@@ -44,7 +44,7 @@
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [GeekyPrep -- Referral Code: QZJFQS](https://www.geekyprep.com)
 * [CodersMaze -- Compile, run, curse... Recompile, rerun, recurse...](http://codersmaze.com) -- http only :-(
-* [PracticeCodingInterview.com -- Live mock coding interviews](http://www.practicecodinginterview.com/) -- Paid practice interviews with engineers at top companies
+* [PracticeCodingInterview.com -- Live mock coding interviews](https://www.practicecodinginterview.com) -- Paid practice interviews with engineers at top companies
 
 ## Competitive programming
 
@@ -60,6 +60,7 @@
 * [Timus Online Judge](http://acm.timus.ru) -- http only :-(
 * [HackerEarth -- Be a Better Programmer. Practice. Compete. Get Hired.](https://www.hackerearth.com/about/profile/?ref_key=b46a5106e4704565824636b6e1dfe210&source=invite)
 * [UVa -- Online Judge](https://uva.onlinejudge.org)
+* [Kattis -- Welcome to the Kattis Problem Archive](https://open.kattis.com)
 
 ## Coding Bootcamps
 
