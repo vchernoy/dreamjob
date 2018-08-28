@@ -16,6 +16,7 @@
 * [Prime Indeed](https://prime.indeed.com/refer/c-0afSpi9)
 * [Vettery -- Find a job you love](http://fbuy.me/ibG7X)
 * [Gloat (previously Workey) -- Anonymously discover career opportunities, know your worth, and meet amazing companies.](https://www.gloat.com/i/dCfsDn)
+* [100offer](https://100offer.com/invite_talent/itwTivol)
 * [WhiteTruffle -- Let your dream job come to you](https://whitetruffle.com/r/cdb6)
 * [Woo](https://woo.io)
 * [AList -- Get hired by a top startup](https://alist.co/candidates)
@@ -24,8 +25,6 @@
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [Anthology](https://anthology.co)
 * [SkillGigs -- You win when your dream job finds you](https://www.skillgigs.com)
-* [Yodas -- Reverse Headhunting](https://www.yodas.com)
-* [100offer](https://100offer.com/invite_talent/itwTivol)
 
 ## Coding
 
