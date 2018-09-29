@@ -3,7 +3,7 @@
 ## Recruiting Platforms with Technical Prescreen
 
 * [TripleByte -- Get offers from top tech companies](https://triplebyte.com/iv/PXM6vVS/me)
-* [CodeFights -- Practice Programming!](https://codefights.com/signup/8Jj3t6KyDxLNvFNjK/main)
+* [CodeSignal -- The most fun way to practice programming and find a job](https://app.codesignal.com/signup/8Jj3t6KyDxLNvFNjK/main)
 * [Angel: Direct](https://angel.co/direct)
 * [Refdash -- Find the best job for You](https://refdash.com)
 * [InterviewBit](https://www.interviewbit.com/invite/ghjbib)
@@ -50,12 +50,12 @@
 * [Topcoder](https://www.topcoder.com)
 * [CodeChef](https://www.codechef.com)
 * [E-Olymp](https://www.e-olymp.com)
-* [Codeforces](http://codeforces.com) -- http only :-(
+* [Codeforces](https://codeforces.com/)
 * [AtCoder](https://atcoder.jp)
 * [CS Academy](https://csacademy.com)
 * [HackerRank: Contests](https://www.hackerrank.com/contests)
 * [ProjectEuler](https://projecteuler.net)
-* [Spoj -- Sphere Online Judge](http://www.spoj.com) -- http only :-(
+* [Spoj -- Sphere Online Judge](https://www.spoj.com)
 * [Timus Online Judge](http://acm.timus.ru) -- http only :-(
 * [HackerEarth -- Be a Better Programmer. Practice. Compete. Get Hired.](https://www.hackerearth.com/about/profile/?ref_key=b46a5106e4704565824636b6e1dfe210&source=invite)
 * [UVa -- Online Judge](https://uva.onlinejudge.org)
