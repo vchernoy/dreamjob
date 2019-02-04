@@ -162,6 +162,7 @@
 ## Podcasts
 
 * [The Ultimate List Of Developer Podcasts. By John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/?utm_source=drip&utm_medium=email&utm_campaign=ultimate-list-of-developer-podcasts-updated)
+* [Awesome list of Important Podcasts for software engineers, Rajeev N Bharshetty](https://github.com/rShetty/awesome-podcasts)
 
 ## Misc
 
