@@ -142,8 +142,7 @@
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ## Salary Negotiation
-* [Haseeb's Qureshi Blog](http://haseebq.com/blog/)
-  * [Haseeb's Qureshi Blog: Ten Rules for Negotiating a Job Offer](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
+* [Ten Rules for Negotiating a Job Offer by Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School)](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
 * [Software Engineering Daily: Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi)
 * [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
