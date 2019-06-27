@@ -150,6 +150,7 @@
 * [SE-Radio Episode 275: Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers)
 * [How Not to Bomb Your Offer Negotiation by Haseeb Qureshi](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [blind -- Anonymous Community for Workplace](https://us.teamblind.com/invite/X1xSb6jm-u)
+* [levels -- Career Levels and salaries](https://www.levels.fyi)
 
 ## Stocks
 
