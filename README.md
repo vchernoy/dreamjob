@@ -133,7 +133,7 @@
   * [Paysa: Salaries](https://www.paysa.com/salaries)
 * [Owler](https://www.owler.com)
 * [StackShare: Jobs](https://stackshare.io/match)
-* [StackOverflow: Jobs](https://stackoverflow.com/jobs)
+* [StackOverflow: Companies](https://stackoverflow.com/jobs/companies)
 * [Triplebyte: Company List](https://triplebyte.com/ycombinator-startups)
 * [GlassDoor](https://www.glassdoor.com)
   * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
