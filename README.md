@@ -151,6 +151,7 @@
 * [How Not to Bomb Your Offer Negotiation by Haseeb Qureshi](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [blind -- Anonymous Community for Workplace](https://us.teamblind.com/invite/X1xSb6jm-u)
 * [levels -- Career Levels and salaries](https://www.levels.fyi)
+* [SOftware Engineer Salary by InterviewBit](https://www.interviewbit.com/blog/software-engineer-developer-salary/)
 
 ## Stocks
 
