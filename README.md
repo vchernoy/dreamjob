@@ -89,6 +89,8 @@
 * [The System Design Primer, Donne Martin](https://github.com/donnemartin/system-design-primer)
 * [System_Design Preparation, by Shashank Khare](https://github.com/shashank88/system_design)
 * [Fight for 200 commits, by Eric Zhang](https://github.com/FreemanZhang/system-design)
+* [Features of Operating System](https://www.interviewbit.com/blog/features-of-operating-system/)
+* [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
 
 ## Systems Design Basics on Wikipedia
 
