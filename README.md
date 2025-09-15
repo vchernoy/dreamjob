@@ -77,6 +77,7 @@
 
 ## Systems Design
 
+* [TechAtlas – Navigate the World of Programming](https://mytherapy-coding.github.io/TechAtlas) -- A curated map of the best developer resources—coding interviews, system design, projects, JavaScript, AI/ML, and free programming books—all in one place. [mytherapy-coding/TechAtlas](https://github.com/mytherapy-coding/TechAtlas)
 * [HighScalability](http://Highscalability.com)
   * [HighScalability: Examples](http://highscalability.com/blog/category/example)
 * [HiredInTech](https://www.hiredintech.com)
@@ -154,7 +155,7 @@
 * [How Not to Bomb Your Offer Negotiation by Haseeb Qureshi](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [blind -- Anonymous Community for Workplace](https://us.teamblind.com/invite/X1xSb6jm-u)
 * [levels -- Career Levels and salaries](https://www.levels.fyi)
-* [SOftware Engineer Salary by InterviewBit](https://www.interviewbit.com/blog/software-engineer-developer-salary/)
+* [Software Engineer Salary by InterviewBit](https://www.interviewbit.com/blog/software-engineer-developer-salary/)
 
 ## Stocks
 
