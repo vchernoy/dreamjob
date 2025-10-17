@@ -4,7 +4,6 @@
 
 * [TripleByte -- Get offers from top tech companies](https://triplebyte.com/iv/PXM6vVS/me)
 * [CodeSignal -- The most fun way to practice programming and find a job](https://app.codesignal.com/signup/8Jj3t6KyDxLNvFNjK/main)
-* [Angel: Direct](https://angel.co/direct)
 * [Refdash -- Find the best job for You](https://refdash.com)
 * [InterviewBit](https://www.interviewbit.com/invite/ghjbib)
 * [HackerRank: Jobs](https://www.hackerrank.com/jobs/all)
@@ -132,7 +131,7 @@
 
 * [BreakoutList](https://breakoutlist.com)
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/)
-* [Angel: Jobs](https://angel.co/jobs)
+* [wellfound](https://wellfound.com/jobs) (previously, [Angel: Jobs](https://angel.co/jobs))
 * [Paysa: Jobs](https://www.paysa.com/jobs)
   * [Paysa: Salaries](https://www.paysa.com/salaries)
 * [Owler](https://www.owler.com)
@@ -143,9 +142,11 @@
   * [GlassDoor: Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [YC-Companies](https://www.ycombinator.com/companies)
 * [The 2017 Wealthfront Career-Launching Companies List](https://blog.wealthfront.com/2017-career-launching-companies-list)
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+* [poteto/hiring-without-whiteboard: Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+* [Hiring without whiteboard](https://airtable.com/app3GPfBakzyWI8WO/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
 
 ## Salary Negotiation
+
 * [Ten Rules for Negotiating a Job Offer by Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [Salary Negotiation: Make More Money, Be More Valued by Patrick McKenzie](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Kalzumeus Podcast Episode 12: Salary Negotiation with Josh Doody](https://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
