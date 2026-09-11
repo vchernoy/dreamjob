@@ -91,6 +91,7 @@
 * [Fight for 200 commits, by Eric Zhang](https://github.com/FreemanZhang/system-design)
 * [Features of Operating System](https://www.interviewbit.com/blog/features-of-operating-system/)
 * [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
+* [InterviewLegend System Design Guides](https://interviewlegend.com/guides/system-design) - system design interviews broken down company by company, from first-hand reports
 
 ## Systems Design Basics on Wikipedia
 
